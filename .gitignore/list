@@ -1,0 +1,4 @@
+# Study group guests..
+guests= ['Susan, ' Christopher ', ' Bill ' , 'Satya ']
+print(guests[0])
+print(guests[1])
