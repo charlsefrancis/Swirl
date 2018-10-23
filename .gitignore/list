@@ -2,3 +2,12 @@
 guests= ['Susan' , ' Christopher ', ' Bill ' , 'Satya ']
 print(guests[0])
 print(guests[1])
+
+
+
+#add a value
+guests[3] = 'small'
+print(guest[3])
+
+guests.remove('Bill')
+print(guests[-1])
